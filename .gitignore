@@ -1,1 +1,9 @@
-node_nodules/
+# npm
+node_modules/
+
+# Parcel
+/.cache/
+/dist/
+
+# TypeScript
+/.ts-cache/
